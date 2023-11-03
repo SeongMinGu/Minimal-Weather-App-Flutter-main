@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+★★★★
+If the location information is not available, please locate the location information on the emulator
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
